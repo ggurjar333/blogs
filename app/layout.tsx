@@ -3,7 +3,7 @@ import "./globals.css";
 import Header from "./Header";
 
 export const metadata = {
-  title: "Superblog",
+  title: "Blog",
   description: "A blog app using Next.js and Prisma",
 };
 
