@@ -17,7 +17,7 @@ export default function Header() {
     <header className="w-full bg-white shadow-md py-4 px-8">
       <nav className="flex justify-between items-center">
         <Link href="/" className="text-xl font-bold text-gray-800 hover:text-blue-600 transition-colors">
-          Superblog
+          Blog
         </Link>
         {dbConfigured && (
           <div className="space-x-4">
